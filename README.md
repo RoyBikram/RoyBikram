@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://bikramroy.netlify.app](https://protofio.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://bikramroy.netlify.app)
 
 - 💬 Ask me about **Web Development**
 
